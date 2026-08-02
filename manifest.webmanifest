@@ -1,0 +1,18 @@
+{
+  "name": "Faiza Novansa — Vibe Coder",
+  "short_name": "Faiza Novansa",
+  "description": "Web Developer • AI Builder • Cybersecurity Learner",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#080B12",
+  "theme_color": "#080B12",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
